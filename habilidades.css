@@ -119,40 +119,40 @@
 }
 
 .skill5 {
-    background-image: url(/img/php2.svg);
+    background-image: url(/php2.svg);
 }
 
 .skill6 {
-    background-image: url(/img/java2.svg);
+    background-image: url(/java2.svg);
 }
 
 .skill7 {
-    background-image: url(/img/react2.svg);
+    background-image: url(/react2.svg);
 }
 
 .skill8 {
-    background-image: url(/img/sql2.svg);
+    background-image: url(/sql2.svg);
 }
 
 .skill9 {
-    background-image: url(/img/git2.svg);
+    background-image: url(/git2.svg);
 }
 
 
 .skill10 {
-    background-image: url(/img/github2.svg);
+    background-image: url(/github2.svg);
 }
 
 .skill11 {
-    background-image: url(/img/bootstrap2.svg);
+    background-image: url(/bootstrap2.svg);
 }
 
 .skill12 {
-    background-image: url(/img/typescript2.svg);
+    background-image: url(/typescript2.svg);
 }
 
 .skill13 {
-    background-image: url(/img/pythonFormat2.png);
+    background-image: url(/pythonFormat2.png);
 }
 #fundo {
     fill: red;
