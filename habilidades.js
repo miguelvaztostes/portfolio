@@ -6,7 +6,7 @@ const sobreSkill = [
   "<p>JavaScript</p> <br> <p>É uma linguagem de programação. Juntamente com HTML e CSS, é uma das três principais tecnologias da web.</p> <br>",
   "<p>ReactJS</p> <br> <p>O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.</p> <br>",
   "<p>SQL</p> <br> <p>É uma linguagem de programação usada principalmente para gerenciar bancos de dados relacionais. Com SQL, você pode criar, modificar e consultar dados em um banco de dados.</p> <br>",
-  "<p>TypeScript</p> <br> <p>TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft que é um superset da linguagem JavaScript.</p> <br>",
+  "<p>Python</p> <br> <p>O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning.</p> <br>",
   "<p>Git</p> <br> <p>É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.</p> <br>",
   "<p>Github</p> <br> <p>É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. </p> <br>",
 ];
